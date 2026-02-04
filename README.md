@@ -1,5 +1,7 @@
 
-# Legal-tech Project: S02-26-Equipo 60-Product Design
+# Legal-tech Project: Scaly
+
+S02-26-Equipo 60-Product Design
 
 
 [Project logo]
@@ -11,14 +13,12 @@ empresa en US sin volverse loca.
 
 Queremos mejorar nuestro ecommerce para dirigir tráfico con ads y mejorar la conversión. Es importante lograr que tanto google como meta puedan mediante el pixel hacer el conteo de los pagos que ingresan al pagar vía Stripe.
 
-El Formato: Un e-commerce. El user entra, elige un paquete, paga y
-nosotros hacemos el papeleo.
-La Misión: Que el proceso sea tan fácil que la gente no tenga miedo de
-pagar, y que nosotros podamos medir cada dólar que entra por Ads.
+El Formato: Un e-commerce. El user entra, elige un paquete, paga y nosotros hacemos el papeleo.
+La Misión: Que el proceso sea tan fácil que la gente no tenga miedo de pagar, y que nosotros podamos medir cada dólar que entra por Ads.
 
 ## Minimum Viable Product (MVP)
  - #### Sistema de Aterizaje de alta conversión: 
-  Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía al usuario a elegir su estructura en USA eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de Ads se traduzca en dinero real y no en simples formularios vacíos..
+Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía al usuario a elegir su estructura en USA eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de Ads se traduzca en dinero real y no en simples formularios vacíos.
 
 ## Technologies
 
@@ -77,15 +77,13 @@ UX Research:
 | Role              | Names                     | Social Network                                                                                                                    |
 | :---------------- | :-----------------------  | :-------------------------------------------------------------------------------------------------------------------------------- |
 | `Product Designer`  | Fernando Vergel          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/nemgf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/fernandovergel/)             |
-| `Product Designer` | Gladys Diaz           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/)                 |
 | `UX/UI Designer`       | Diego Marin               | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/DIGORACCOON4279) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/diegomarinmora/)           |
-| `UX/UI Designer`       | Aylen Diaz          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/aylendiazmayoral/)             |
+| `UX/UI Designer`       | Aylen Diaz          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/07821-ga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/aylendiazmayoral/)             |
 | `UX Writer`       | Julieta Escat          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/JulietaEscat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/julietaescat/)             |                         
 | `UX Researcher`       | Matías Ron Ares          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/04-04-91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/mat%C3%ADas-ron-ares-a4b09819a/)    
 | `Graphic Designer`        | María Paula Mariani           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-paula-mariani-057594274/)             |   
 | `Graphic Designer`        | Maria Sol Bruna            | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/MariaSolBruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-sol-bruna/)               | 
-| `UX/UI Designer`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |  
-| `UX Researcher`        | Carolina Mac Caddon           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/)     
+| `UX/UI Designer`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |   
 
 ## Video Demo Day
 
@@ -94,7 +92,6 @@ UX Research:
 ## Prototype
 
 Prototype en Figma [link al proyecto]
-
 
 ## Deploy
 
