@@ -16,22 +16,20 @@ nosotros hacemos el papeleo.
 La Misión: Que el proceso sea tan fácil que la gente no tenga miedo de
 pagar, y que nosotros podamos medir cada dólar que entra por Ads.
 
-
-
 ## Minimum Viable Product (MVP)
  - #### Sistema de Aterizaje de alta conversión: 
   Una experiencia en Webflow que proyecta autoridad total para matar el "SaaS Fantasma", un Quiz interactivo que guía al usuario a elegir su estructura en USA eliminando el miedo al IRS, un checkout directo en Stripe para capturar revenue al instante y una automatización que entrega al cliente pagado en Pipedrive, garantizando que el tráfico de Ads se traduzca en dinero real y no en simples formularios vacíos..
 
 ## Technologies
 
-Product Managers:
+Product Design:
 
 [![Trello](https://img.shields.io/badge/Trello-Project_Management-blue)](https://trello.com/)
 [![Miro](https://img.shields.io/badge/Miro-Team_Boards-lightgrey.svg)](https://miro.com/es/)
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-Deploy-green)](https://www.google.com/sheets/about/)
 [![GitHub](https://img.shields.io/badge/GitHub-Version_Control-orange.svg)](https://github.com/)
 
-UX/UI:
+UX/UI Design:
 
 [![Figma](https://img.shields.io/badge/Figma-Design-orange)](https://www.figma.com/design/9Pqwgz3rr1Rtk47jgk8ive/Eureka?node-id=0-1&t=Rodia6tKdo6d4W3U-1)
 [![Marvel App](https://img.shields.io/badge/Marvel_App-Prototyping-green)](https://marvelapp.com/)
@@ -40,7 +38,7 @@ UX/UI:
 [![Photoshop](https://img.shields.io/badge/Photoshop-Img_Editor-lightgrey)](https://www.adobe.com/products/photoshop.html)
 [![KDEnLive](https://img.shields.io/badge/KDEnLive-Video_Editor-yellow)](https://kdenlive.org/)
 
-No Code Front End:
+No Code Front-End:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-Scripting-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React JS](https://img.shields.io/badge/React_JS-Library-blue)](https://reactjs.org/)
@@ -49,7 +47,7 @@ No Code Front End:
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility_Framework-blue)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deploy-green)](https://vercel.com/)
 
-UX writing:
+UX Writing:
 
 [![Java](https://img.shields.io/badge/Java-Scripting-yellow)](https://docs.oracle.com/en/java/)
 [![Spring](https://img.shields.io/badge/Spring-Framework-green)](https://spring.io/)
@@ -86,7 +84,7 @@ UX Research:
 | `UX Researcher`       | Matías Ron Ares          | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/04-04-91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/mat%C3%ADas-ron-ares-a4b09819a/)    
 | `Graphic Design`        | María Paula Mariani           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-paula-mariani-057594274/)             |   
 | `Graphic Designer`        | Maria Sol Bruna            | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/MariaSolBruna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/maria-sol-bruna/)               | 
-| `UX Researcher`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |  
+| `UX/UI Designer`        | Alejandra Ramirez           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/in/alejandra-ramirez-ux-uidesigner-a74aa7266/)              |  
 | `UX Researcher`        | Carolina Mac Caddon           | [![GitHub](https://img.shields.io/badge/GitHub-Perfil-lightgrey)](https://github.com/No-Country-Equipos/S02-26-Equipo-60-Product-Design/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-deepskyblue)](https://www.linkedin.com/)     
 
 ## Video Demo Day
